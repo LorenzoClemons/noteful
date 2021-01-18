@@ -38,3 +38,13 @@
   height: calc(100vh - 120px);
   overflow: auto;
 }
+
+
+
+.newFolderForm {
+  text-align: center;
+}
+
+.newNoteForm {
+  text-align: center;
+}
